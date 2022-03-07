@@ -31,12 +31,14 @@ The installation process is the next:
     $ conda activate vizzuality
     $ ipython kernel install --user --name=<name_for_kernel>
     $ jupyter notebook
-```
+    ```
+
 Notes:
 - Due to memory github problem with csv, the data must be unrared after downloading code
 - the route should be 'data/HarvestedArea_spam2010'
 
 ### :file_folder: **Folder structure**
+
 ```
 └── vizz_science
     ├── .gitignore
