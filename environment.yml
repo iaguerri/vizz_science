@@ -1,0 +1,14 @@
+name: vizzuality
+channels:  
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - geopandas
+  - matplotlib
+  - notebook
+  - nb_conda_kernels
+  - pip:
+    - ipykernel
