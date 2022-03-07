@@ -1,4 +1,4 @@
-# :beginner: Product Engineer Test
+# :beginner: Vizzuality Scientist Test
 This README is the document which will explain the Code Challenge for the Scientist position.
 
 
