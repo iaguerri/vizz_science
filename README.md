@@ -42,7 +42,6 @@ Notes:
 ```
 └── vizz_science
     ├── .gitignore
-    ├── requirements.txt
     ├── environment.yml
     ├── README.md
     └── data
