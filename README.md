@@ -44,6 +44,7 @@ Notes:
     ├── .gitignore
     ├── environment.yml
     ├── README.md
+    ├── Soybean_study.ipynb
     └── data
         ├── areas.geojson
         ├── HarvestedArea_spam2010 
